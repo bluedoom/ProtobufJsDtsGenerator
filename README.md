@@ -6,7 +6,6 @@
 # 改动内容
 * 64位整数改为了使用BigInt，见： https://github.com/mjgp2/protobuf.js
 * Enum参考了C#的生成规则，见：https://github.com/bluedoom/protobuf.js/commit/24336b7b305864a867b2084b692e4021c7cd23d6
-*
 
 # 为啥要单独做Dts生成器
 
