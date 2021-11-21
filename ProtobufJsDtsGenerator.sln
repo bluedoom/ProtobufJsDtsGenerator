@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProtobufJsDtsGenerator", "ProtobufJsDtsGenerator\ProtobufJsDtsGenerator.csproj", "{DFEFDE8C-7D49-4B35-9E94-4F10B63B2991}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProtoDescriptorHelper", "ProtoDescriptorHelper\ProtoDescriptorHelper.csproj", "{FB5C24F8-E42C-44AD-9147-9B5B3ED1AE23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFEFDE8C-7D49-4B35-9E94-4F10B63B2991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEFDE8C-7D49-4B35-9E94-4F10B63B2991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEFDE8C-7D49-4B35-9E94-4F10B63B2991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEFDE8C-7D49-4B35-9E94-4F10B63B2991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB5C24F8-E42C-44AD-9147-9B5B3ED1AE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB5C24F8-E42C-44AD-9147-9B5B3ED1AE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB5C24F8-E42C-44AD-9147-9B5B3ED1AE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB5C24F8-E42C-44AD-9147-9B5B3ED1AE23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55280F1F-A465-48D7-BE74-AAACCF0FA74C}
+	EndGlobalSection
+EndGlobal
